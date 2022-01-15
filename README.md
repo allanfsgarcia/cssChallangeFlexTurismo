@@ -8,7 +8,10 @@
 - Manter a responsividade da página para outros dispostivos.
 - Discutir as tarefas do projeto e sua execução com a comunidade do evento no Discord.
 
+Deploy link: https://allanfsgarcia.github.io/cssChallangeFlexTurismo/
 
 ![image](https://user-images.githubusercontent.com/91488719/149639049-9a578fed-8173-416f-b981-499645dd11d9.png)
+
+Aprendizado: TAGS HTML, estilização CSS, Responsividade e boas práticas de código de programação.
 
 
